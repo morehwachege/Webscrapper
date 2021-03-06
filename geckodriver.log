@@ -1,0 +1,186 @@
+1614993510474	geckodriver	INFO	Listening on 127.0.0.1:56897
+1614993511433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1ihJ2"
+Exiting due to channel error.
+Exiting due to channel error.
+1614993605814	geckodriver	INFO	Listening on 127.0.0.1:56203
+1614993607023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesfyVvu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Exiting due to channel error.
+Exiting due to channel error.
+1614993681340	geckodriver	INFO	Listening on 127.0.0.1:34465
+1614993681445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ1TmoW"
+Exiting due to channel error.
+Exiting due to channel error.
+1614993774140	geckodriver	INFO	Listening on 127.0.0.1:36783
+1614993774239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF33CrD"
+Exiting due to channel error.
+Exiting due to channel error.
+1614996557888	geckodriver	INFO	Listening on 127.0.0.1:58387
+1614996558904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileANc2WE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614996937619	geckodriver	INFO	Listening on 127.0.0.1:56871
+1614996938623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegECkXV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614997257991	geckodriver	INFO	Listening on 127.0.0.1:51899
+1614997258996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL6I4to"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+Exiting due to channel error.
+Exiting due to channel error.
+1615024542221	geckodriver	INFO	Listening on 127.0.0.1:46949
+1615024543133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLr5SA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615024549913	Marionette	INFO	Listening on port 44827
+1615024550028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615024936398	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1615025092570	geckodriver	INFO	Listening on 127.0.0.1:35101
+1615025092575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenN9pGu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615025095359	Marionette	INFO	Listening on port 38965
+1615025095409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hawk.creativebloq.com/js/w/responsive.js, line 1: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.ultimedia.com/deliver/generic/iframe?mdtk=02892309&zone=2&type_player=0&sendstats=0&src=pfru8v&width=597&height=336&urlfacebook=https%3A%2F%2Fwww.creativebloq.com%2Fhow-to%2F20-best-ui-design-tools&ad=1&autoplay=no&fstart=2&title=Affinity+Designer%3A+The+Pixel+persona&endMessage=um_ultimedia_wrapper_ultimediaEndRoll&widgetPrefix=um_ultimedia_wrapper_&tagparam=&tagparamdecoded=&sspParam=&visible=&gdprconsentstring=, line 72: TypeError: tcData.purpose is undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302, line 1: TypeError: this.options is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://a6ab25bf700691786c4ccc774ba099bf.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1615025269444	geckodriver	INFO	Listening on 127.0.0.1:39131
+1615025269450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0TZc0O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615025272933	Marionette	INFO	Listening on port 34319
+1615025272993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://hawk.creativebloq.com/js/w/responsive.js, line 1: TypeError: Node.appendChild: Argument 1 is not an object.
+JavaScript error: https://bordeaux.futurecdn.net/bordeaux.js, line 23: Error: took more than five seconds to resolve and timed out
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20210301_RC00/outstream.min.js, line 593: Error: lima_error_fetching_ad: Request timed out
+JavaScript error: https://www.ultimedia.com/deliver/generic/iframe?mdtk=02892309&zone=2&type_player=0&sendstats=0&src=pfru8v&width=597&height=336&urlfacebook=https%3A%2F%2Fwww.creativebloq.com%2Fhow-to%2F20-best-ui-design-tools&ad=1&autoplay=no&fstart=2&title=Affinity+Designer%3A+The+Pixel+persona&endMessage=um_ultimedia_wrapper_ultimediaEndRoll&widgetPrefix=um_ultimedia_wrapper_&tagparam=&tagparamdecoded=&sspParam=&visible=&gdprconsentstring=, line 72: TypeError: tcData.purpose is undefined
+JavaScript error: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20210301_RC00/outstream.min.js, line 593: Error: lima_error_fetching_ad: Request timed out
+1615025378515	Marionette	INFO	Stopped listening on port 44827
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/316172/52954187/dcm/dcmads.js, line 1014: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/316172/52954189/dcm/dcmads.js, line 1014: NS_ERROR_NOT_INITIALIZED: 
+1615025382005	Marionette	INFO	Stopped listening on port 34319
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302, line 1: Script terminated by timeout at:
+n/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:688
+n@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:660
+checkAndTriggerNotificationPermissionChanged@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:79914
+e/</<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:246872
+EventListener.handleEvent*e/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:246839
+n/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:883
+n@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:660
+e@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:246282
+delayedInit/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:247213
+n/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:883
+n@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:660
+delayedInit@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:246219
+init/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:246121
+r@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151302:1:716
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1637:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 952))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:952:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1637:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2305))
+1615025682073	geckodriver	INFO	Listening on 127.0.0.1:57119
+1615025683073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR4k5wu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615025686287	Marionette	INFO	Listening on port 42201
+1615025686413	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615025979905	geckodriver	INFO	Listening on 127.0.0.1:53027
+1615025980924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXJTg2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615025984770	Marionette	INFO	Listening on port 45285
+1615025984871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615026039943	Marionette	INFO	Stopped listening on port 42201
+1615026042084	Marionette	INFO	Stopped listening on port 45285
+1615026044951	Marionette	INFO	Stopped listening on port 38965
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
